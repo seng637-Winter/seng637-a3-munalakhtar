@@ -350,54 +350,54 @@ public void calculateColumnTotalForBUB() {
 
 - Branch Coverage
 
-<img src="media/BRangeBranch.PNG" alt="JFreeChart Range Branch Coverage Before" />
+<img src="media/BRangeBranch.png" alt="JFreeChart Range Branch Coverage Before" />
 
 - Method Coverage
 
-<img src="media/Before-RangeTest-Method.PNG" alt="JFreeChart Range Method Coverage Before" />
+<img src="media/Before-RangeTest-Method.png" alt="JFreeChart Range Method Coverage Before" />
 
 
 ### Range Coverage - After
 
 - Line Coverage
 
-<img src="media/RangeLineCoverageAfter.PNG" alt="Range Line Coverage After" />
+<img src="media/RangeLineCoverageAfter.png" alt="Range Line Coverage After" />
 
 - Branch Coverage
 
-<img src="media/RangeBranchCoverageAfter.PNG" alt="Range Branch Coverage After" />
+<img src="media/RangeBranchCoverageAfter.png" alt="Range Branch Coverage After" />
 
 - Condition/Method Coverage
 
-<img src="media/RangeMethodCoverageAfter.PNG" alt="Range Method Coverage After" />
+<img src="media/RangeMethodCoverageAfter.png" alt="Range Method Coverage After" />
 
 ###DataUtilities Coverage - Before
 
 - Line Coverage
 
-<img src="media/JFreeChartLineCoverageBefore.PNG" alt="JFreeChart Line Coverage Before" />
+<img src="media/JFreeChartLineCoverageBefore.png" alt="JFreeChart Line Coverage Before" />
 
 - Branch Coverage
 
-<img src="media/JFreeChartBranchCoverageBefore.PNG" alt="JFreeChart Branch Coverage Before" />
+<img src="media/JFreeChartBranchCoverageBefore.png" alt="JFreeChart Branch Coverage Before" />
 
 - Method Coverage
 
-<img src="media/JFreeChartMethodCoverageBefore.PNG" alt="JFreeChart Method Coverage Before" />
+<img src="media/JFreeChartMethodCoverageBefore.png" alt="JFreeChart Method Coverage Before" />
 
 ### DataUtilities Coverage - After
 
 - Line Coverage
 
-<img src="media/AfterLineData.PNG" alt="DataUtilities Line Coverage After" />
+<img src="media/AfterLineData.png" alt="DataUtilities Line Coverage After" />
 
 - Branch Coverage
 
-<img src="media/AfterBranchData.PNG" alt="DataUtilities Branch Coverage After" />
+<img src="media/AfterBranchData.png" alt="DataUtilities Branch Coverage After" />
 
 - Condition/Method Coverage
 
-<img src="media/AfterMethodData.PNG" alt="DataUtilities Method Coverage After" />
+<img src="media/AfterMethodData.png" alt="DataUtilities Method Coverage After" />
 
 # 6 Pros and Cons of coverage tools used and Metrics you report
 
