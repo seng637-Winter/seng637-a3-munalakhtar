@@ -346,7 +346,7 @@ public void calculateColumnTotalForBUB() {
 
 - Line Coverage
 
-<img src="media/Before-RangeTest-Line.PNG" alt="JFreeChart Range Line Coverage Before" />
+<img src="media/Before-RangeTest-Line.png" alt="JFreeChart Range Line Coverage Before" />
 
 - Branch Coverage
 
